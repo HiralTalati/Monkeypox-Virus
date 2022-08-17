@@ -1,0 +1,13 @@
+molecule_chembl_id,canonical_smiles,value,bioactivity_class
+CHEMBL112159,Nc1ncnc2c1ncn2C[C@H]1COP(=O)(O)CO1,48.0,intermediate
+CHEMBL113930,Nc1ncnc2c1ncn2C[C@@H](CO)OP(=O)(O)O,22.0,intermediate
+CHEMBL494759,Nc1ncnc2c1ncn2C[C@H](O)CO,54.0,intermediate
+CHEMBL114867,Nc1ncnc2c1ncn2C[C@@H]1COP(=O)(O)CO1,350.0,inactive
+CHEMBL321500,Nc1ncnc2c1ncn2C[C@@H](O)CO,500.0,inactive
+CHEMBL326139,Nc1ncnc2c1ncn2C[C@H](CO)OP(=O)(O)O,300.0,inactive
+CHEMBL1643,NC(=O)c1ncn([C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)n1,145.0,inactive
+CHEMBL392630,Nc1ccn(C[C@H]2COP(=O)(O)CO2)c(=O)n1,760.0,inactive
+CHEMBL152,Nc1ccn(C[C@@H](CO)OCP(=O)(O)O)c(=O)n1,505.0,inactive
+CHEMBL3290663,Nc1ncc(F)c2c1ncn2[C@@H]1C[C@H](O)[C@@H](O)[C@H]1O,0.32,active
+CHEMBL3357216,Nc1ncc(F)c2c1ncn2[C@@H]1C[C@H](CCO)[C@@H](O)[C@H]1O,0.32,active
+CHEMBL3357215,Nc1ncc(F)c2c1ncn2[C@@H]1C[C@H](CO)[C@@H](O)[C@H]1O,0.32,active
